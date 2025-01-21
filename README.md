@@ -16,3 +16,6 @@ The dataset from the previous project has been reworked except that this time th
 In this project, the Kaggle dataset called AnimeFaces is used, which contains color photos of anime faces. And the goal of creating a photo is similar to the CNN method (DCGAN or Deep Convolutional Generative Adversarial Network).Important features:
 - Professional model building with CNN
 - color photos (3 channels)
+
+**4. with_without_glasses_CGAN:** 
+  
