@@ -17,5 +17,13 @@ In this project, the Kaggle dataset called AnimeFaces is used, which contains co
 - Professional model building with CNN
 - color photos (3 channels)
 
+
 **4. with_without_glasses_CGAN:** 
+CGAN or Conditional Generative Adversarial Network is a type of Generative Adversarial Network (GAN) in which presentations are dependent on a specific condition or conditions. In this project, a dataset is used, which includes photos of people, some with glasses and others without glasses, and this feature is available in the CSV file. We try to produce photos of people with glasses and without glasses separately.Important features:
+- Wasserstein GAN with Gradient Penalty(WGAN-GP)
+- Using normal distribution for weighting
+- Dataset preparation
+- How to label CGAN
+- save & load_state_dict
+- Display photos in different modes (matplotlib)
   
