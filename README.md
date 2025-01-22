@@ -10,7 +10,7 @@ FashionMNIST database belongs to PyTorch and contains a large number of black an
 The dataset from the previous project has been reworked except that this time the goal is to generate images (not classification) using training.In this project, photos are made by Generative Adversarial Network method.Important features: 
 - made discriminative and generative
 - Real and fake data and labels
-- loss discriminative and generative
+- Loss comparison discriminative and generative
 
 
 **3. AnimeFaces_DCGAN:** 
