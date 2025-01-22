@@ -26,5 +26,5 @@ CGAN or Conditional Generative Adversarial Network is a type of Generative Adver
 - Dataset preparation
 - How to label CGAN
 - save & load_state_dict
-- Display photos in different modes (matplotlib)
+- Show photos in different modes (matplotlib)
   
