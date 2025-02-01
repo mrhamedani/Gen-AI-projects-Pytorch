@@ -44,6 +44,10 @@ new Important features:
 - Auto Mixed Precision
 
 **6_MNIST_Autoencoder**
-The mnist dataset is made of 60,000 images of numbers 0 to 9. In this project, we try to generate these numbers twice using the Autoencoder method
+The mnist dataset is made of 60,000 images of numbers 0 to 9. In this project, we try to generate these numbers twice using the Autoencoder method.new Important features:
 - Autoencoder architecture
+
+**7.FashionMNIST.tensorboard**
+This is a simple project that we just want to check the mnist fashion dataset with a simple neural network in the tensorboard space.new Important features:
+- tensorboard --> Scaler ,Graph ,Embedding ,Image 
 
