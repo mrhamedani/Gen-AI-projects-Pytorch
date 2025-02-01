@@ -48,6 +48,6 @@ The mnist dataset is made of 60,000 images of numbers 0 to 9. In this project, w
 - Autoencoder architecture
 
 **7.FashionMNIST.tensorboard**
-This is a simple project that we just want to check the mnist fashion dataset with a simple neural network in the tensorboard space.new Important features:
+This is a simple project that we just want to generate the FashionMNIST dataset by a neural network and check it in the tensorboard environment..new Important features:
 - tensorboard --> Scaler ,Graph ,Embedding ,Image 
 
