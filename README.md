@@ -43,7 +43,7 @@ new Important features:
 - Downsampling & Upsampling
 - Auto Mixed Precision
 
-  **6_MNIST_Autoencoder**
-  The mnist dataset is made of 60,000 images of numbers 0 to 9. In this project, we try to generate these numbers twice using the Autoencoder method
-  - Autoencoder architecture
+**6_MNIST_Autoencoder**
+The mnist dataset is made of 60,000 images of numbers 0 to 9. In this project, we try to generate these numbers twice using the Autoencoder method
+- Autoencoder architecture
 
