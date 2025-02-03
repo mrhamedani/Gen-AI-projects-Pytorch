@@ -46,8 +46,17 @@ new Important features:
 **6_MNIST_Autoencoder**
 The mnist dataset is made of 60,000 images of numbers 0 to 9. In this project, we try to generate these numbers twice using the Autoencoder method.new Important features:
 - Autoencoder architecture
+- The concept of latent space
 
 **7.FashionMNIST.tensorboard**
 This is a simple project that we just want to generate the FashionMNIST dataset by a neural network and check it in the tensorboard environment..new Important features:
-- tensorboard --> Scaler ,Graph ,Embedding ,Image 
+- tensorboard --> Scaler ,Graph ,Embedding ,Image
+
+**8.VAE_glasses**
+In this project, we will again use the dataset with glasses and without glasses, but with the VAE (Variational Autoencoder) model. This model is similar to the normal Autoencoder, but has some new items.new Important features:
+- loss = reconstruction_loss + kl
+- VAE architecture
+- eval methode
+- weight_decay item in optimaizer
+
 
