@@ -59,6 +59,11 @@ In this project, we will again use the dataset with glasses and without glasses,
 - eval methode
 - weight_decay item in optimaizer
 
-**9.TextGenerationLSTM: (nlp hard)**
-
+**9.TextGenerationLSTM: (NLP hard)**
+In this project, LSTM model is used and the dataset is Anakarnina book by Telestoy. LSTM (Long Short-Term Memory) is a type of recurrent neural network(RNN) designed to process sequential data and is capable of preserving both long-term and short-term dependencies in the data.
+The goal is to generate text using the dataset in exchange for a prompt.new Important features:
+- LSTM architecture in Pytorch
+- Clean text and tokenize words
+- Build an LSTM model 
+- Generate text with the trained LSTM model
 
