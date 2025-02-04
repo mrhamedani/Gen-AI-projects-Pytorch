@@ -67,3 +67,8 @@ The goal is to generate text using the dataset in exchange for a prompt.new Impo
 - Build an LSTM model 
 - Generate text with the trained LSTM model
 
+**Attached**
+In the continuation of this project, the subject of creativity has also been added to the model with the following two subjects:
+- Temperature
+- top-K sampling
+
