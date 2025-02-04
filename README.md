@@ -72,3 +72,10 @@ In the continuation of this project, the subject of creativity has also been add
 - Temperature
 - top-K sampling
 
+**10.Skorch.Diabetes:**
+Here, using the diabetes dataset, we just want to use the hyperparameter tuning feature.
+pytorch does not have this method. But using skorch, which uses scikit-lesrn, we select the best hyperparameters.new Important features:
+- gride.cv_results
+- NeuralNetClassifier
+- hyperparameter tuning
+
